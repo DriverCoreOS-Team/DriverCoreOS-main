@@ -10,3 +10,6 @@
 [submodule "repos/installer"]
 	path = repos/installer
 	url = https://github.com/DriverCoreOS-Team/DriverCoreOS-installer
+[submodule "docs"]
+	path = docs
+	url = https://github.com/DriverCoreOS-Team/DriverCoreOS-docs.git
