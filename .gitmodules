@@ -13,3 +13,6 @@
 [submodule "docs"]
 	path = docs
 	url = https://github.com/DriverCoreOS-Team/DriverCoreOS-docs.git
+[submodule "tools"]
+	path = tools
+	url = https://github.com/DriverCoreOS-Team/DriverCoreOS-tools.git
