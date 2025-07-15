@@ -25,9 +25,7 @@ This repository serves as the **main entry point** for the entire project. It co
 
 ## 📚 Documentation
 
-For complete technical documentation, architecture diagrams, installation instructions, and development guides, visit the:
-
-📖 [`docs/`](./docs/README.md)
+For complete technical documentation, architecture diagrams, installation instructions, and development guides, visit the [`📖 docs/`](./docs/README.md)
 
 ---
 
