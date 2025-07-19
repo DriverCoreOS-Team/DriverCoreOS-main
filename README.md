@@ -37,14 +37,14 @@ DriverCoreOS is developed by the **[DriverCoreOS-Team](https://github.com/Driver
 
 ## 📦 Submodules & Repositories
 
-| Repository | Description |
-|------------|-------------|
-| [`repos/esp32`](./repos/esp32)        | ESP32 firmware: OBD-II, GPS zones, LED feedback, plugins |
-| [`repos/rpi`](./repos/rpi)            | Raspberry Pi app: media UI, telemetry, maps, plugins     |
-| [`repos/nixos`](./repos/nixos)        | Custom NixOS image for Raspberry Pi                      |
-| [`repos/installer`](./repos/installer)| Installation scripts and flashing tools                  |
-| [`tools`](./tools)                    | Flake devshell and helper scripts                        |
-| [`docs`](./docs)                      | Documentation, setup, and architecture guides            |
+| Repository                             | Description                                              |
+| -------------------------------------- | -------------------------------------------------------- |
+| [`repos/esp32`](./repos/esp32)         | ESP32 firmware: OBD-II, GPS zones, LED feedback, plugins |
+| [`repos/rpi`](./repos/rpi)             | Raspberry Pi app: media UI, telemetry, maps, plugins     |
+| [`repos/nixos`](./repos/nixos)         | Custom NixOS image for Raspberry Pi                      |
+| [`repos/installer`](./repos/installer) | Installation scripts and flashing tools                  |
+| [`tools`](./tools)                     | Flake devshell and helper scripts                        |
+| [`docs`](./docs)                       | Documentation, setup, and architecture guides            |
 
 ---
 
